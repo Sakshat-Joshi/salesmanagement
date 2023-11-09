@@ -64,7 +64,7 @@ int main()
     cout<<endl;
     cout<<"_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++";
     cout<<endl;
-    cout<<"                       WELCOME TO ITSOURCECODE CAR SALES MANAGEMENT SYSTEM                      ";
+    cout<<"                       WELCOME TO CAR SALES MANAGEMENT SYSTEM                      ";
     cout<<endl<<"_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++";
     
     system("clear");
@@ -162,7 +162,7 @@ int main()
             {
                 system("clear");
                 cout<<"_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++\n\n";
-                cout<<"\n                Thank you for using the ITSOURCECODE CAR SYSTEM!! 				   \n\n";
+                cout<<"\n                Thank you for using the CAR MANAGEMENT SYSTEM!! 				   \n\n";
                 cout<<"_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++_++";
                 
                 exit(0);
